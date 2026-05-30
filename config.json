@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervetch",
+        "uuid": 2584274,
+        "checksum": "2dr66"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
